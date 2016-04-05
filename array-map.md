@@ -1,6 +1,6 @@
 ﻿# Array `map()` method
 
-TEST The `map()` method creates a new array, without altering the original, by applying a function to each element of the array. The transformation (or processing) is done by a callback function, which is specified as the first parameter of the method. Higher-order functions such as `map()`, `reduce()` or `filter()` are an shorter, more readable alternative to iterating through an array with a loop.
+The `map()` method creates a new array, without altering the original, by applying a function to each element of the array. The transformation (or processing) is done by a callback function, which is specified as the first parameter of the method. Higher-order functions such as `map()`, `reduce()` or `filter()` are an shorter, more readable alternative to iterating through an array with a loop.
 
 ## Example
 
